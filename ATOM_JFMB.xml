@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xml:lang="es"
+    xml:base="https://github.com/jfmeji/RSS">
+
+    <id>https://github.com/jfmeji/RSS</id>
+	<title>PRACTICA RSS-ATOM</title>
+	<updated>2022-02-16T16:31Z</updated>
+	<author>
+		<name>Jose Mejias</name>
+		<email>a21mebejo@iesgrancapitan.org</email>
+	</author>
+	<link rel="alternate" href="https://github.com/jfmeji/RSS" />
+	<category term="Mascotas" />
+	<rights> © 2022 Jose Mejias </rights>
+	
+</feed>
